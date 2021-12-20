@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+a {
+  display: inline-block;
+  width: 90px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  background-color: #747474;
+  border-radius: 5px;
+}
+
+.nav-items>a {
+  margin-right: 10px;
+}
+
+.main {
+  margin: 10px;
+}
